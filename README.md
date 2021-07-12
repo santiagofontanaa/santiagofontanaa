@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @santiagofontanaa a Junior Frontend Developer 
+- 👀 I’m interested in Learning new things all time
+- 🌱 I’m currently learning JavaScript & Chinese
