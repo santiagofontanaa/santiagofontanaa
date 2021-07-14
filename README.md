@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Santiago Fontana <br><span style="font-size: 4px">Junior FrontEnd Developer</span></h1>
+<h1 align="center">Hello, I'm Santiago Fontana <br>Junior FrontEnd Developer</h1>
 
 
 
