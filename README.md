@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Santiago Fontana</h1>
-<h2 align="center">Junior Front End developer</h2>
+<h1 align="center">Hello, I'm Santiago Fontana <br><span style="font-size: 24px">Junior FrontEnd Developer</span></h1>
+
 
 
 <h3 align="center">My Skills:</h3>
