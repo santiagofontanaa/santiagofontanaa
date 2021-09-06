@@ -6,9 +6,6 @@
       - I'm of **Argentinian** Nationality
     </li>
     <li>
-      - I'm actualy work on **Leno Hosting**
-    </li>
-    <li>
       - Watch mi portfolio <a href="#">here</a>
     </li>
   </nav>    
