@@ -5,6 +5,5 @@
 
 
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santiagofontanaa&border_radius=5&background=FFF8F8)](https://git.io/streak-stats)
-Copy To Clipboard
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagofontanaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
