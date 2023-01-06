@@ -11,6 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagofontanaa&show_icons=true&locale=en&layout=compact" alt="santiagofontanaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagofontanaa&show_icons=true&locale=en" alt="santiagofontanaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagofontanaa&" alt="santiagofontanaa" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiagofontanaa" alt="santiagofontanaa" /></a> </p>
