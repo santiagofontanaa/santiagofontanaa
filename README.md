@@ -8,3 +8,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santiagofontanaa&border_radius=5&background=FFF8F8)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagofontanaa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagofontanaa&show_icons=true&locale=en&layout=compact" alt="santiagofontanaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagofontanaa&show_icons=true&locale=en" alt="santiagofontanaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagofontanaa&" alt="santiagofontanaa" /></p>
