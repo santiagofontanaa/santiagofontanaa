@@ -1,7 +1,7 @@
 ### ☕ About Me: 
- - 🌱 I'm Learning **Python**, **Java**, **C++**
- - 📌 I'm born in Argentina, Buenos Aires (2007)
- - 💬 I speak Spanish, English and bit of German
+ - 🌱 我正在学习用PYTHON编程
+ - 📌 我出生在阿根廷布宜诺斯艾利斯 (2007)
+ - 💬 我知道如何说西班牙语、英语和汉语
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagofontanaa&label=Profile%20views&color=0e75b6&style=flat" alt="santiagofontanaa" /> </p>
 
