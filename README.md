@@ -1,5 +1,5 @@
 ### ☕ About Me: 
- - 🌱 PYTHON DEVELOPER
+ - 🌱 CPP & LUA DEVELOPER
  - 📌 BORN IN ARGENTINA, BUENOS AIRES (2007)
  - 💬 SPEAK: English; Spanish; Portuguese | Learning: Chinese; Japanese
 
