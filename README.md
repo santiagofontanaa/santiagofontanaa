@@ -1,7 +1,7 @@
 ### ☕ About Me: 
  - 🌱 CPP & LUA DEVELOPER
  - 📌 BORN IN ARGENTINA, BUENOS AIRES (2007)
- - 💬 SPEAK: English; Spanish; Portuguese | Learning: Chinese; Japanese
+ - 💬 SPEAK: English; Spanish; Portuguese | LEARNING: Chinese; Japanese
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagofontanaa&label=Profile%20views&color=0e75b6&style=flat" alt="santiagofontanaa" /> </p>
 
